@@ -1,0 +1,8 @@
+Revamp av safeboxen
+mobilanpassning klar för lawyer,safebox kvar
+sortering av whistlehandler //
+
+utloggning på whistlehandler //
+
+skicka meddelande till databasen//
+
